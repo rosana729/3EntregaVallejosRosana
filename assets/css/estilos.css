@@ -262,6 +262,10 @@ section {
     white-space: nowrap;
     padding: 10px 0 10px 28px;
   }
+  .navbar ul li a {
+    font-size: 18px;
+    padding: 8px;
+  }
   .navbar a,
   .navbar a:focus {
     display: flex;
@@ -961,7 +965,7 @@ section {
 }
 .hero .info p {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .hero .info .btn-get-started {
